@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Olá 👋, eu sou o Lucas Tobias
-</h3>
+</h1>
 <p align="center">
 
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,9 @@
     />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</p>
 <p align="center">
   <img alt="Brazil" src="https://img.shields.io/badge/Brazil-009739?style=flat-square&labelColor=002776&color=009739">
   <img alt="English" src="https://img.shields.io/badge/English-reading%20%7C%20communication%20evolving-1F6FEB?style=flat-square">
@@ -41,37 +43,37 @@ Desenvolvo APIs REST, aplicações web e integrações entre sistemas utilizando
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logo)
-![Quarkus](https://img.shields.io/badge/Quarkus-141321?style=for-the-badge&logo=quarkus&logo)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Microservices](https://img.shields.io/badge/Microservices-141321?style=for-the-badge&logo=apachekafka&logo)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-141321?style=for-the-badge&logo=fastapi&logo)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logo)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoE)
-![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logo)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logo)
-![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logo)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141321?style=for-the-badge&logo=githubactions&logo)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Automação
 
-![n8n](https://img.shields.io/badge/n8n-141321?style=for-the-badge&logo=n8n&logo)
-![Selenium](https://img.shields.io/badge/Selenium-141321?style=for-the-badge&logo=selenium&logo)
-![Webhooks](https://img.shields.io/badge/Webhooks-141321?style=for-the-badge&logo=webhooks&logo)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
 
 ---
 
