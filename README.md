@@ -3,22 +3,19 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpneTlkNHFqaGE0NmI2Y3o1a2RwdTF5dWN3cW84MXVka2U2em9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHzz94qovyOVa/giphy.gif" width="30px" alt="Alien gif">
 </h1>
 
-<h3 align="center">
-  Java • Quarkus • REST APIs • React • Docker
-</h3>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FE428E&center=true&vCenter=true&width=720&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Quarkus+%7C+REST+APIs;React+%7C+Docker+%7C+Microsservi%C3%A7os;Software+Architecture+%26+Secure+Backend"
       alt="Typing SVG"
     />
+    <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
   </a>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 Sobre mim</h2>
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="center">
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor
