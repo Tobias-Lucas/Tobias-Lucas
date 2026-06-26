@@ -22,7 +22,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Ba
 
 Desenvolvo APIs REST, aplicações web e integrações entre sistemas utilizando **Java, Quarkus, React e Docker**.
 
-🇺🇸 Leitor de inglês com comunicação em evolução.
+Leitor de inglês com comunicação em evolução.
 
 ---
 
