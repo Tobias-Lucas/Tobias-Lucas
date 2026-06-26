@@ -99,8 +99,8 @@ Meu roadmap representa o caminho técnico que estou seguindo para evoluir como d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Tobias GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=radical" alt="Lucas Tobias Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tobias-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Tobias GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lucas&layout=compact&langs_count=8&theme=radical" alt="Lucas Tobias Top Languages" />
 </div>
 
 ---
@@ -109,9 +109,9 @@ Meu roadmap representa o caminho técnico que estou seguindo para evoluir como d
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
