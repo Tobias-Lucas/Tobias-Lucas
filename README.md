@@ -46,29 +46,29 @@ Desenvolvo APIs REST, aplicações web e integrações entre sistemas utilizando
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=FE428E)
-![Quarkus](https://img.shields.io/badge/Quarkus-141321?style=for-the-badge&logo=quarkus&logoColor=A9FEF7)
+![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logo)
+![Quarkus](https://img.shields.io/badge/Quarkus-141321?style=for-the-badge&logo=quarkus&logo)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Microservices](https://img.shields.io/badge/Microservices-141321?style=for-the-badge&logo=apachekafka&logoColor=FE428E)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-141321?style=for-the-badge&logo=fastapi&logoColor=FE428E)
+![Microservices](https://img.shields.io/badge/Microservices-141321?style=for-the-badge&logo=apachekafka&logo)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-141321?style=for-the-badge&logo=fastapi&logo)
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=A9FEF7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=FE428E)
-![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=A9FEF7)
+![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logo)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoE)
+![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logo)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=A9FEF7)
-![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=FE428E)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141321?style=for-the-badge&logo=githubactions&logoColor=A9FEF7)
+![Docker](https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logo)
+![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logo)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141321?style=for-the-badge&logo=githubactions&logo)
 
 ### Automação
 
-![n8n](https://img.shields.io/badge/n8n-141321?style=for-the-badge&logo=n8n&logoColor=FE428E)
-![Selenium](https://img.shields.io/badge/Selenium-141321?style=for-the-badge&logo=selenium&logoColor=A9FEF7)
-![Webhooks](https://img.shields.io/badge/Webhooks-141321?style=for-the-badge&logo=webhooks&logoColor=FE428E)
+![n8n](https://img.shields.io/badge/n8n-141321?style=for-the-badge&logo=n8n&logo)
+![Selenium](https://img.shields.io/badge/Selenium-141321?style=for-the-badge&logo=selenium&logo)
+![Webhooks](https://img.shields.io/badge/Webhooks-141321?style=for-the-badge&logo=webhooks&logo)
 
 ---
 
