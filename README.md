@@ -28,10 +28,10 @@ Leitor de inglês com comunicação em evolução.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasjtobias">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:lucastobias.dev@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -77,16 +77,23 @@ Leitor de inglês com comunicação em evolução.
 
 ## 📊 GitHub Stats & Contribuições
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tobias-Lucas&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="Lucas Tobias GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lucas&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Lucas Tobias Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tobias-Lucas&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="Lucas Tobias GitHub Stats" />
+    </td>
+    <td width="18"></td>
+    <td align="center">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lucas&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Lucas Tobias Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake.svg">
-    <img width="99%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tobias-Lucas/Tobias-Lucas/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
