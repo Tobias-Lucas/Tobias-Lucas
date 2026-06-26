@@ -1,14 +1,70 @@
-# 👽 Olá, eu sou o Lucas Tobias
+<h1 align="center">Olá, eu sou o Lucas Tobias <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpneTlkNHFqaGE0NmI2Y3o1a2RwdTF5dWN3cW84MXVka2U2em9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHzz94qovyOVa/giphy.gif" width="30px"> </h1>
+<h3 align="center">Java • Quarkus • REST APIs • React • Dockerr</h3>
 
-### Java • Quarkus • REST APIs • React • Docker
-
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FE428E&vCenter=true&width=720&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Quarkus+%7C+REST+APIs;React+%7C+Docker+%7C+Microsservi%C3%A7os;Software+Architecture+%26+Secure+Backend)](https://git.io/typing-svg)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Backend / Full Stack em formação**, focado no ecossistema **Java**.
+
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor <strong>Backend / Full Stack em formação</strong>. Minha jornada na tecnologia começou na adolescencia com o interesse em desenvolvimento de jogos e manutenção em hardwares, evoluindo para o aprendizado em desenvolvimento na prática em uma empresa de tecnologia.</p>
+  </em> 
+  <br>
+</div>
+
+<div align= "center">
+  ## 🛠️ Stacks 
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Back-end</strong>
+      <br><br>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+      <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white">
+      <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square">
+      <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+      <img alt="Microservices" src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square">
+    </td>
+    <td align="center" width="25%">
+      <strong>Front-end</strong>
+      <br><br>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>Banco de Dados</strong>
+      <br><br>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
+    </td>
+    <td align="center" width="25%">
+      <strong>DevOps & Automação</strong>
+      <br><br>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+      <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+      <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+      <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 Desenvolvo APIs REST, aplicações web e integrações entre sistemas utilizando **Java, Quarkus, React e Docker**. Atualmente concentro meus estudos em **arquitetura de software, microsserviços, cloud e segurança de aplicações**.
 
-> Passionate about software architecture and secure backend development.
+
 
 ---
 
