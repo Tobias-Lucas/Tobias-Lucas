@@ -20,14 +20,14 @@ Desenvolvo APIs REST, aplicações web e integrações entre sistemas utilizando
 
 ## 🚀 Atualmente aprendendo
 
-- Arquitetura Hexagonal
-- Domain-Driven Design — DDD
-- Microsserviços
-- Kafka
-- Kubernetes
-- AWS
-- DevSecOps
-- Testes Automatizados
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-6A0DAD?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-8A2BE2?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-2496ED?style=for-the-badge)
+![Automated Tests](https://img.shields.io/badge/Testes%20Automatizados-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
@@ -37,13 +37,14 @@ Meu roadmap representa o caminho técnico que estou seguindo para evoluir como d
 
 ### Próximos objetivos
 
-- Kafka
-- Redis
-- Kubernetes
-- AWS
-- Terraform
-- Observabilidade com Grafana e Prometheus
-- OpenTelemetry
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ---
 
@@ -51,36 +52,36 @@ Meu roadmap representa o caminho técnico que estou seguindo para evoluir como d
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=FE428E)
-![Quarkus](https://img.shields.io/badge/Quarkus-141321?style=for-the-badge&logo=quarkus&logoColor=A9FEF7)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-141321?style=for-the-badge&logo=fastapi&logoColor=FE428E)
-![JWT](https://img.shields.io/badge/JWT-141321?style=for-the-badge&logo=jsonwebtokens&logoColor=A9FEF7)
-![Microservices](https://img.shields.io/badge/Microservices-141321?style=for-the-badge&logo=apachekafka&logoColor=FE428E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=A9FEF7)
-![JavaScript](https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=F8D866)
-![HTML5](https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=FE428E)
-![CSS3](https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=A9FEF7)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=A9FEF7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=FE428E)
-![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=A9FEF7)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=A9FEF7)
-![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=FE428E)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141321?style=for-the-badge&logo=githubactions&logoColor=A9FEF7)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Automação
 
-![n8n](https://img.shields.io/badge/n8n-141321?style=for-the-badge&logo=n8n&logoColor=FE428E)
-![Selenium](https://img.shields.io/badge/Selenium-141321?style=for-the-badge&logo=selenium&logoColor=A9FEF7)
-![Webhooks](https://img.shields.io/badge/Webhooks-141321?style=for-the-badge&logo=webhooks&logoColor=FE428E)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
 
 ---
 
@@ -132,9 +133,9 @@ Busco oportunidades como **Desenvolvedor Backend** ou **Full Stack** para contri
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=A9FEF7)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-141321?style=for-the-badge&logo=gmail&logoColor=FE428E)](mailto:SEU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=A9FEF7)](https://github.com/SEU_USUARIO_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tobias-Lucas)
 
 ---
 
